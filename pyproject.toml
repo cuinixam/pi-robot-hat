@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pi-robot-hat"
-version = "0.0.0"
+version = "0.1.0"
 description = "Modules for controlling the Adeept Robot Hat."
 authors = ["cuinixam <me@cuinixam.com>"]
 license = "MIT"
